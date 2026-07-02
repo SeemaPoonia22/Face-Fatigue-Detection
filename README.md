@@ -17,7 +17,7 @@ A computer vision-based system that detects driver/user fatigue in real-time usi
 # Fatigue Detection System - Before & After
 
 ## System in Action
-
+###EXAMPLE
 |  NORMAL STATE | FATIGUE STATE |
 |:---------------:|:----------------:|
 | ![Normal](images/normal_state.jpg) | ![Fatigue](images/fatigue_state.jpg) |
@@ -28,10 +28,3 @@ A computer vision-based system that detects driver/user fatigue in real-time usi
 | **Status:**  AWAKE | **Status:** DROWSY |
 
 ---
-
-##  Live Visual
-
-### Normal State
-[![](https://github.com/Sonu-Hansda/Face-Fatigue-Detection/blob/main/assets/normal.png)](https://github.com/Sonu-Hansda/Face-Fatigue-Detection/blob/main/assets/normal.png)
-### Fatigue State 
-[![](https://github.com/Sonu-Hansda/Face-Fatigue-Detection/blob/main/assets/fatigue.png)](https://github.com/Sonu-Hansda/Face-Fatigue-Detection/blob/main/assets/fatigue.png)
